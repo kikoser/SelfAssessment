@@ -2,43 +2,43 @@
 
 - Language 
   - Object 🖐️ used
-  - this 🎓 known
+  - this 🖐️ used
   - arrow function 🖐️ used
-  - async function 🎓 known
-  - call 🎓 known
+  - async function 🖐️ used
+  - call 🖐️ used
   - bind 👂 heard
   - apply 👂 heard
-  - instanceof 🎓 known
+  - instanceof 🖐️ used
   - ...spread 🖐️ used
   - ...rest 🖐️ used
   - typeof 🖐️ used
-  - destructuring 👂 heard
-  - generator 👂 heard
-  - iterator 👂 heard
-  - async generator 
-  - async iterator 
+  - destructuring 🖐️ used
+  - generator 🖐️ used
+  - iterator 🖐️ used
+  - async generator  👂 heard
+  - async iterator 👂 heard
   - chaining 👂 heard
   - optional chaining 
   - IIFE 🎓 known
   - global 🎓 known
   - globalThis 👂 heard
-  - window 🎓 known
-  - getters and setters 
+  - window 🖐️ used
+  - getters and setters 👂 heard
   - __proto__ 
   - prototype 
   - equality operators 🖐️ used
   - logical operators 🖐️ used
-  - bitwise operators 
+  - bitwise operators  👂 heard
   - ternary operator 🖐️ used
   - void 🎓 known
-  - yield 
-  - await 
-  - template literal 
+  - yield 🎓 known
+  - await 🎓 known
+  - template literal 👂 heard
   - strict mode 🖐️ used
   - delete 🎓 known
   - in 🖐️ used
   - super 🎓 known
-  - Symbol 
+  - Symbol 👂 heard
   - Reflect 
 - Statements 
   - if 🖐️ used
@@ -54,8 +54,8 @@
   - import 🖐️ used
   - export 🖐️ used
   - label 🎓 known
-  - try..catch 🎓 known
-  - switch 🎓 known
+  - try..catch 🖐️ used
+  - switch 🖐️ used
   - class 🖐️ used
   - new Error 🎓 known
   - with 🎓 known
@@ -64,26 +64,26 @@
   - function expression 🎓 known
   - return 🖐️ used
   - default parameters 🖐️ used
-  - functional object 🎓 known
+  - functional object 🖐️ used
 - Data structures
   - Array 🖐️ used
   - mixin 👂 heard
   - extend 🎓 known
   - typed arrays 🎓 known
-  - Map 🎓 known
+  - Map 🖐️ used
   - Set 🎓 known
   - undefined 🖐️ used
   - null 🖐️ used
-  - Proxy 
+  - Proxy 👂 heard
   - weak collections 
   - timers 🎓 known
   - EventEmitter 
   - RegExp 🎓 known
   - Date 🎓 known
-  - BigInt 👂 heard
+  - BigInt 🎓 known
 - Infrastructure
   - V8 🖐️ used
   - Node.js 👂 heard
   - npm  🖐️ used
   - prettier 👂 heard
-  - MDN 🎓 known
+  - MDN 🖐️ used

@@ -25,12 +25,12 @@
   - loops 🖐️ used
   - assignment 🖐️ used
   - regular expression 🎓 known
-  - interface 👂 heard
-  - contract 👂 heard
+  - interface 🎓 known
+  - contract 🎓 known
   - module 🎓 known
-  - call stack  👂 heard
+  - call stack  🎓 known
 - Functions
-  - signature 
+  - signature 👂 heard
   - argument 🖐️ used
   - parameter 🖐️ used
   - pure function 🖐️ used
@@ -41,23 +41,23 @@
   - curry 👂 heard
   - higher order 👂 heard 
   - recursion  🎓 known
-  - callback 👂 heard 
+  - callback 🎓 known
   - listener 🖐️ used
   - compose
   - pipe
-  - memoize
+  - memoize 👂 heard
   - wrapper 🖐️ used
   - functor 👂 heard 
   - monad
   - monoid
-  - generator
+  - generator 👂 heard
   - coroutine 👂 heard
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
   - record 🎓 known
   - enum 🎓 known
-  - instance
+  - instance 👂 heard
   - object 🖐️ used
   - class 🎓 known 
   - collection 🎓 known
@@ -87,14 +87,14 @@
   - refactoring 🖐️ used
   - code review 🖐️ used
   - antipatterns 🖐️ used
-  - paradigm 👂 heard
+  - paradigm 🖐️ used
   - algorithm  🎓 known
   - magic numbers 🎓 known
   - hardcode 🎓 known
   - complexity 🎓 known
   - decomposition 🎓 known
   - spaghetti  🎓 known
-  - silver bullet 👂 heard
+  - silver bullet 🎓 known
   - not invented here 🖐️ used
   - dead code 🎓 known
   - unreachable code 👂 heard
