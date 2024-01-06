@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
-- Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
-- Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+- Language 
+  - Object 🖐️ used
+  - this 🎓 known
+  - arrow function 🖐️ used
+  - async function 🎓 known
+  - call 🎓 known
+  - bind 👂 heard
+  - apply 👂 heard
+  - instanceof 🎓 known
+  - ...spread 🖐️ used
+  - ...rest 🖐️ used
+  - typeof 🖐️ used
+  - destructuring 👂 heard
+  - generator 👂 heard
+  - iterator 👂 heard
+  - async generator 
+  - async iterator 
+  - chaining 👂 heard
+  - optional chaining 
+  - IIFE 🎓 known
+  - global 🎓 known
+  - globalThis 👂 heard
+  - window 🎓 known
+  - getters and setters 
+  - __proto__ 
+  - prototype 
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 
+  - ternary operator 🖐️ used
+  - void 🎓 known
+  - yield 
+  - await 
+  - template literal 
+  - strict mode 🖐️ used
+  - delete 🎓 known
+  - in 🖐️ used
+  - super 🎓 known
+  - Symbol 
+  - Reflect 
+- Statements 
+  - if 🖐️ used
+  - while  🖐️ used 
+  - do..while 🖐️ used 
+  - for 🖐️ used
+  - for..in 🖐️ used 
+  - for..of 🖐️ used
+  - for await 🎓 known
+  - throw 🎓 known
+  - break 🖐️ used
+  - continue 🖐️ used 
+  - import 🖐️ used
+  - export 🖐️ used
+  - label 🎓 known
+  - try..catch 🎓 known
+  - switch 🎓 known
+  - class 🖐️ used
+  - new Error 🎓 known
+  - with 🎓 known
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🎓 known
+  - function expression 🎓 known
+  - return 🖐️ used
+  - default parameters 🖐️ used
+  - functional object 🎓 known
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array 🖐️ used
+  - mixin 👂 heard
+  - extend 🎓 known
+  - typed arrays 🎓 known
+  - Map 🎓 known
+  - Set 🎓 known
+  - undefined 🖐️ used
+  - null 🖐️ used
+  - Proxy 
+  - weak collections 
+  - timers 🎓 known
+  - EventEmitter 
+  - RegExp 🎓 known
+  - Date 🎓 known
+  - BigInt 👂 heard
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 🖐️ used
+  - Node.js 👂 heard
+  - npm  🖐️ used
+  - prettier 👂 heard
+  - MDN 🎓 known
