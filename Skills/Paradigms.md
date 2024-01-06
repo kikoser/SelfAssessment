@@ -12,7 +12,7 @@
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming
+  - Parallel programming 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
