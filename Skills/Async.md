@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch 🎓 known
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 👂 heard
   - setImmediate
   - nextTick
   - AbortController
@@ -81,7 +81,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library 
   - RxJS library
   - Async composition
   - Promise.all
