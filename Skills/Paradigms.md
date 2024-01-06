@@ -1,49 +1,49 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Procedural programming 🖐️ used
+  - Imperative programming 🖐️ used
+  - Structured programming 🖐️ used
+  - Non-structured programming 👂 heard
+  - Functional programming 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming 🖐️ used
+  - Object-based programming  👂 heard
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
   - Parallel programming 👂 heard
-  - Reactive programming
+  - Reactive programming 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages 🖐️ used
   - Multi-paradigm programming
   - Metaprogramming
-  - Actor model
+  - Actor model 👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
+  - Async method 👂 heard
+  - Getters, Setters 🖐️ used
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used 
+  - Field declarations 
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🖐️ used
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
+  - Hidden class 🖐️ used
+  - Object form 🖐️ used
+  - instance 👂 heard
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton 👂 heard
+  - Factory Method  👂 heard
   - Abstract Factory
   - Adapter
   - Observer
@@ -52,11 +52,11 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype 👂 heard
   - Composite
   - Decorator
   - Flyweight
